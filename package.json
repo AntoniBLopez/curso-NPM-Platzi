@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/toniblopez/curso-NPM-Platzi.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node",
+    "package",
+    "library"
+  ],
+  "author": "Toni B. Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toniblopez/curso-NPM-Platzi/issues"
+  },
+  "homepage": "https://github.com/toniblopez/curso-NPM-Platzi#readme"
+}
